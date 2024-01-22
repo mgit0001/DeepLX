@@ -8,6 +8,9 @@
  * 
  * Copyright © 2022 by Vincent, All Rights Reserved. 
 -->
+I am honored that DARTNODE is offering a free server to sponsor my project.DARTNODE's official website:https://dartnode.com
+
+![image](https://github.com/mgit0001/DeepLX/assets/147574618/0a2046f0-4db1-4e8c-9928-08c3574471c6)
 
 [![GitHub Workflow][1]](https://github.com/OwO-Network/DeepLX/actions)
 [![Go Version][2]](https://github.com/OwO-Network/DeepLX/blob/main/go.mod)
